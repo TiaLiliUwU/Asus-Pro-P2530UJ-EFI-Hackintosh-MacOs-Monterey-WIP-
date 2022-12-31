@@ -1,4 +1,4 @@
-# Asus Pro P553UJ EFI Hackintosh MacOs Monterey (WIP)
+# Asus Pro P2530UJ EFI Hackintosh MacOs Monterey (WIP)
 
 Running system screenshot:
 
