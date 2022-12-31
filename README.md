@@ -23,5 +23,12 @@ Tips: Use 2x RAM and SSD instead of HDD. It’ll avoid a laggy setup. Buy and in
 
 Geekbench:
 
+![Screen Shot 2022-12-30 at 11 59 33 PM](https://user-images.githubusercontent.com/72944953/210122955-2c1b289a-0ad5-4d9f-abba-acaffcfb4829.png)
 
 
+| Not working:            |
+| :---------------        |
+| Trackpad                |
+| Wi-Fi & Bluetooth       |
+| dGPU                    |
+| HDMI                    |
