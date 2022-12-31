@@ -33,3 +33,9 @@ Geekbench:
 | Wi-Fi & Bluetooth       |
 | dGPU                    |
 | HDMI                    |
+
+# Not tested:
+
+| SD Slot                 |
+| :---------------------- |
+
