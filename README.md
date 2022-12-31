@@ -12,7 +12,7 @@ Running system screenshot:
 | iGPU             | Intel HD Graphics 520                                        |
 | dGPU             | NVIDIA GeForce 920m*                                         |
 | Memory           | 1x 2133MHz DDR4 8GB                                          |
-| WiFi / BT        | Qualcomm Atheros qca9377*.                                   |
+| WiFi / BT        | Qualcomm Atheros qca9377*                                    |
 | Audio            | Conexant CX20751                                             |
 | OpenCore Version | 0.8.6                                                        |
 
