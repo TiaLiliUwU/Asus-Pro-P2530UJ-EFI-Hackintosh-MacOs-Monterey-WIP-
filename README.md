@@ -28,8 +28,8 @@ Geekbench:
 
 # Not working:
 
-| :---------------------- |
 | Trackpad                |
+| :---------------------- |
 | Wi-Fi & Bluetooth       |
 | dGPU                    |
 | HDMI                    |
