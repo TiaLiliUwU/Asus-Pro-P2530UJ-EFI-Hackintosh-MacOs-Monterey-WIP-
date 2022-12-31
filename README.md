@@ -6,7 +6,7 @@ Running system screenshot:
 
 # System details:
 
-| Model            | Asus Pro P2530UJ                                             |
+| Model            | Asus Pro P2530UJ-XO0104E                                     |
 | :--------------- | :----------------------------------------------------------- |
 | Processor        | Intel i7-6500U                                               |
 | iGPU             | Intel HD Graphics 520                                        |
@@ -23,7 +23,7 @@ Tips: Use 2x RAM and SSD instead of HDD. It’ll avoid a laggy setup. Buy and in
 
 Geekbench:
 
-![Screen Shot 2022-12-30 at 11 59 33 PM](https://user-images.githubusercontent.com/72944953/210122955-2c1b289a-0ad5-4d9f-abba-acaffcfb4829.png)
+![Screen Shot 2022-12-31 at 8 42 05 PM](https://user-images.githubusercontent.com/72944953/210157688-6e670a64-698a-47d5-ac21-a1eba9a80eb9.png)
 
 
 # Not working:
