@@ -6,7 +6,7 @@ Running system screenshot:
 
 # System details:
 
-| Model            | Asus Pro P553UJ                                              |
+| Model            | Asus Pro P2530UJ                                             |
 | :--------------- | :----------------------------------------------------------- |
 | Processor        | Intel i7-6500U                                               |
 | iGPU             | Intel HD Graphics 520                                        |
