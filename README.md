@@ -11,9 +11,11 @@ Running system screenshot:
 | Processor        | Intel i7-6500U                                               |
 | iGPU             | Intel HD Graphics 520                                        |
 | dGPU             | NVIDIA GeForce 920m*                                         |
-| Memory           | 1x 2133MHz DDR4 8GB                                          |
+| RAM              | 1x 2133MHz DDR4 8GB                                          |
 | WiFi / BT        | Qualcomm Atheros qca9377*                                    |
 | Audio            | Conexant CX20751                                             |
+| Keyboard         | PC/AT Enhanced PS/2 Keyboard (101/102-Key)                   |
+| Touchpad         | ETD0108 Elan                                                 |
 | OpenCore Version | 0.8.6                                                        |
 
 * Dedicated GPU not supported.
@@ -28,14 +30,16 @@ Geekbench:
 
 # Not working:
 
-| Trackpad                |
+| Touchpad*               |
 | :---------------------- |
 | Wi-Fi & Bluetooth       |
 | dGPU                    |
 | HDMI                    |
 
+I'm working to optimize EFI and found that it's possible to active ETD0108 Elan touchpad with ApplePS2SmartTouchPad.kext. It'll probably be working in the next EFI version.
+
 # Not tested:
 
 | SD Slot                 |
 | :---------------------- |
-
+| VGA                     |
