@@ -36,7 +36,7 @@ Geekbench:
 | dGPU                    |
 | HDMI                    |
 
-I'm working to optimize EFI and found that it's possible to active ETD0108 Elan touchpad with ApplePS2SmartTouchPad.kext. It'll probably be working in the next EFI version.
+* I'm working to optimize EFI and found that it's possible to active ETD0108 Elan touchpad with ApplePS2SmartTouchPad.kext. It'll probably be working in the next EFI version.
 
 # Not tested:
 
