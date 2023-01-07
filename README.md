@@ -27,7 +27,7 @@ Tips: Use 2x RAM and SSD instead of HDD. It’ll avoid a laggy setup. Buy and in
 
 Geekbench:
 
-
+![Screen Shot 2023-01-06 at 1 10 30 PM](https://user-images.githubusercontent.com/72944953/211129110-f135d171-80ae-4a9f-90ec-b2848e218d67.png)
 
 
 # Not working:
