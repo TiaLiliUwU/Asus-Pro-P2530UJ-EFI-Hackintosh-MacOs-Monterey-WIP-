@@ -18,7 +18,7 @@ I don't know if someone will ever see this Hackintosh rep. since Asus Pro P2530U
 | Audio            | Conexant CX20751 (alcid=3)                                   |
 | Keyboard         | PC/AT Enhanced PS/2 Keyboard (101/102-Key)                   |
 | Touchpad         | ETD0108 Elan                                                 |
-| OpenCore Version | 0.8.6                                                        |
+| OpenCore Version | 0.8.8                                                        |
 
 * Dedicated GPU not supported.
 * Wi-Fi and Bluetooth adapter not supported.
